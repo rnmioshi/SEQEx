@@ -1,4 +1,4 @@
-
+<pre>
 SEQEx - Simulator de Equilíbrios Químicos por Extensão de reação     
 
   Writeln('****************************************************************************');
@@ -18,3 +18,4 @@ SEQEx - Simulator de Equilíbrios Químicos por Extensão de reação
   Writeln('*                                                                          *');
   Writeln('*    Language Program: Borland Pascal 6.0 (DOS)                            *');
   Writeln('****************************************************************************');
+</pre>
