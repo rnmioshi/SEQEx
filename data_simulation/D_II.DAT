@@ -1,0 +1,18 @@
+{H2O} = {H+} + {OH-}                                    K=1.8E-16
+{H+} + {cit-3} = {Hcit-3}                               K=977237
+2{H+} + {cit-3} = {H2cit-}                              K=2.630E10
+3{H+} + {cit-3} = {H3cit}                               K=2.570E13
+{K+} + {cit-3} = {Kcit-2}                               K=5.495
+{K+} + {cit-3} + {H+} = {KcitH-}                        K=1.413E6
+{K+} + {cit-3} + 2{H+} = {KcitH2}                       K=1.820E10
+2{Cu+2} + 2{cit-3} = {Cu2cit2-2}                        K=1.906E15
+2{Cu+2} + 2{cit-3} + {OH-} = {Cu2cit2OH-}             K=7.943E25
+2{Cu+2} + 2{cit-3} + 2{OH-} = {Cu2cit2OH2}            K= 4.571E34
+{Cu+2} + {cit-3} + {H+} = {CucitH}                      K=1.023E10
+2{Cu+2} + {cit-3} + {OH-} = {Cu2citOH}                  K=2.344E19
+{Ni+2} + {cit-3} = {Nicit-}                             K=3.631E5
+{Ni+2} + {cit-3} + {H+} = {NicitH}                      K=3.890E9
+{Ni+2} + 2{cit-3} = {Nicit2-4}                          K=7.0795E8
+{Ni+2} + {H+} + 2{cit-3} = {Nicit2H-3}                  K=2.1878E14
+2{Ni+2} + 2{cit-3} + 2{OH-}  = {Ni2cit2OH2-4}             K=1.259E24
+{Cu+2} + {Ni+2} + 2{cit-3} + 2{OH-} = {CuNicit2OH2-}    K=2.344E30
