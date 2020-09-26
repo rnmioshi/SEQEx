@@ -1,5 +1,5 @@
-# SEQEx
-SEQEx - Simulator de EquilÌbrios QuÌmicos por Extens„o de reaÁ„o     
+
+SEQEx - Simulator de Equil√≠brios Qu√≠micos por Extens√£o de rea√ß√£o     
 
   Writeln('****************************************************************************');
   Writeln('*    SEQEx - Simulator de Equilibrios Quimicos por Extensao de reacao      *');
